@@ -1,0 +1,15 @@
+
+
+Scrum Board : https://craft.io/
+
+credentials :
+ssuman.besu@gmail.com
+craft123
+
+Git Repo :
+
+Frond end app : https://github.com/SumanGitHub/StudentManagement.App.git
+
+API layer : https://github.com/SumanGitHub/StudentManagement.Api.git
+
+documentation : https://github.com/SumanGitHub/StudentManagement.document.git
