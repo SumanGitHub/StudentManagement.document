@@ -21,3 +21,8 @@ Suman : ssuman.besu@gmail.com
 Hasan : sk.hasanuzzaman59@gmail.com
 Aman  : aman.gautam1812@gmail.com
 Anup  : anupsaha.0733@gmail.com
+
+
+Architecture design :
+
+https://www.draw.io/#HSumanGitHub%2FStudentManagement.document%2Fmaster%2FDesign.xml  --> mapped with git repo
