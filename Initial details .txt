@@ -26,3 +26,7 @@ Anup  : anupsaha.0733@gmail.com
 Architecture design :
 
 https://www.draw.io/#HSumanGitHub%2FStudentManagement.document%2Fmaster%2FDesign.xml  --> mapped with git repo
+
+=================================================================================================================
+12/3/2017 - 1st meeting
+19/3/2017  - Planned for next meeting 
