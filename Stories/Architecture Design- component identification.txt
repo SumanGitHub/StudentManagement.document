@@ -22,7 +22,7 @@ Production Environment
 1 storage account - Studentstorageprod
 1 tablestorage - wadlogtableprod
 
-I will share subscription detials one to one . Please let me know when needed.
+I will share subscription detials with one to one . Please let me know when needed.
 
 
 
