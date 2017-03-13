@@ -1,0 +1,30 @@
+
+
+Architecture Design- component identification
+
+--------------------
+Dev Environment 
+--------------------
+1 resourcegroup - Studentrg_dev
+1 WebApp - StudentAppdev
+1 WebAPP - StudentApidev
+1 SqlAzureDatabase - Studentdbdev
+1 storage account - Studentstoragedev
+1 tablestorage - wadlogtabledev
+
+-------------------------------
+Production Environment 
+-------------------------------
+1 resourcegroup - Studentrg_prod
+1 WebApp - StudentAppprod
+1 WebAPP - StudentApiprod
+1 SqlAzureDatabase - Studentdbprod
+1 storage account - Studentstorageprod
+1 tablestorage - wadlogtableprod
+
+I will share subscription detials one to one . Please let me know when needed.
+
+
+
+
+

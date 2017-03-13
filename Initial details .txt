@@ -1,32 +1,42 @@
 
-
+----------------------------------------------------------------------------
 Scrum Board : https://craft.io/
-
+------------------------------------------------------------------------------
 credentials :
 ssuman.besu@gmail.com
 craft123
 
+----------------------------------------------------------------------------
 Git Repo :
-
+---------------------------------------------------------------------------
 Frond end app : https://github.com/SumanGitHub/StudentManagement.App.git
 
 API layer : https://github.com/SumanGitHub/StudentManagement.Api.git
 
 documentation : https://github.com/SumanGitHub/StudentManagement.document.git
 
-
+-----------------------------------------------------------------------------
 Member Mail id :
-
+------------------------------------------------------------------------------
 Suman : ssuman.besu@gmail.com
 Hasan : sk.hasanuzzaman59@gmail.com
 Aman  : aman.gautam1812@gmail.com
 Anup  : anupsaha.0733@gmail.com
 
-
+----------------------------------------------------------------------------------
 Architecture design :
-
+------------------------------------------------------------------------------------
 https://www.draw.io/#HSumanGitHub%2FStudentManagement.document%2Fmaster%2FDesign.xml  --> mapped with git repo
 
+-------------------------------------------------------------------------------------
+Add every stroy details in document repo
+-------------------------------------------------------------------------------------
+
+Upload docx or txt file with name : storyname 
+
+
+================================================================================================================
+Scrum Meeting
 =================================================================================================================
 12/3/2017 - 1st meeting
 19/3/2017  - Planned for next meeting 
