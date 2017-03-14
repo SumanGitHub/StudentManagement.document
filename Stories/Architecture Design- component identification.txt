@@ -10,7 +10,8 @@ Dev Environment
 1 WebAPP - StudentApidev
 1 SqlAzureDatabase Server - Studentdbdev
 1 storage account - Studentstoragedev
-1 tablestorage - wadlogtabledev
+1 tablestorage  - wadlogapptabledev
+1 tablestorage  -wadlogapitabledev
 
 -------------------------------
 Production Environment 
@@ -20,7 +21,8 @@ Production Environment
 1 WebAPP - StudentApiprod
 1 SqlAzureDatabase Server - Studentdbprod
 1 storage account - Studentstorageprod
-1 tablestorage - wadlogtableprod
+1 tablestorage - wadlogapptableprod
+1 tablestorage  -wadlogapitableprod
 
 I will share subscription detials with one to one . Please let me know when needed.
 
