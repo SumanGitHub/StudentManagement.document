@@ -9,6 +9,8 @@ Dev Environment
 1 WebApp - StudentAppdev
 1 WebAPP - StudentApidev
 1 SqlAzureDatabase Server - Studentdbdev
+Username: titan
+Password:firefly123!
 1 storage account - Studentstoragedev
 1 tablestorage  - wadlogapptabledev
 1 tablestorage  -wadlogapitabledev
@@ -29,4 +31,5 @@ I will share subscription detials with one to one . Please let me know when need
 
 
 
-
+---------------------------------------------------------------------------------------------------------
+Dev Environment Components are created.
